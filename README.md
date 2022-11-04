@@ -7,7 +7,7 @@ I'm a Back-end/Mobile Developer with more than six years experience on software 
 * 🔭 I’m currently working on:
     * Node.js, MongoDB and Flutter
 * 🌱 I’m currently learning:
-    * Golang
+    * NestJS and Golang
 * 💬 Ask me about:
     * Database design methodologies for complex systems.
 * 📫 How to reach me:
