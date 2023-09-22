@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=bsBilal&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="imaNNeoFighT's GitHub Streaks" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=bsBilal&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streaks" />
 </div>
